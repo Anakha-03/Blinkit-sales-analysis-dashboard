@@ -9,6 +9,8 @@ The **Blinkit Sales Analysis Dashboard** is an interactive Business Intelligence
 ## Dashboard Preview
 
 Blinkit sales analysis exp3
+<img width="1307" height="732" alt="Blinkit sales analysis exp 3" src="https://github.com/user-attachments/assets/14ab2300-ca7f-485e-bfe7-7dc29402a4cb" />
+
 
 ## Project Objectives
 
